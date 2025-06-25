@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6856afd8ab7cba50c93b14e6"
+  },
+  "nome": "5.a Marília Half Marathon",
+  "data": {
+    "$date": "2025-07-13T00:00:00.000Z"
+  },
+  "cidade": "Marília",
+  "folder": "localhost/27017",
+  "atletasInscritos": []
+},
+{
+  "_id": {
+    "$oid": "6856bd24b58a3ff0f13001ba"
+  },
+  "nome": "1.a Anhanguera Esmeralda Running Super 5 k",
+  "data": {
+    "$date": "2025-07-26T00:00:00.000Z"
+  },
+  "cidade": "Marília",
+  "folder": "localhost/27017",
+  "atletasInscritos": []
+},
+{
+  "_id": {
+    "$oid": "6856bdeab58a3ff0f13001bb"
+  },
+  "nome": "Corrida do Atletismo Rinopolis",
+  "data": {
+    "$date": "2025-10-05T00:00:00.000Z"
+  },
+  "cidade": "Rinopolis",
+  "folder": "localhost/27017",
+  "atletasInscritos": []
+},
+{
+  "_id": {
+    "$oid": "6856be29b58a3ff0f13001bc"
+  },
+  "nome": "1.a Edição do Desafio 11k Trail Run",
+  "data": {
+    "$date": "2025-05-24T00:00:00.000Z"
+  },
+  "cidade": "Marília",
+  "folder": "localhost/27017",
+  "atletasInscritos": []
+},
+{
+  "_id": {
+    "$oid": "6856be71b58a3ff0f13001bd"
+  },
+  "nome": "Maraton Buenos Aires 42k",
+  "data": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "cidade": "Buenos Aires",
+  "folder": "localhost/27017",
+  "atletasInscritos": []
+},
+{
+  "_id": {
+    "$oid": "6856beadb58a3ff0f13001be"
+  },
+  "nome": "Tricolor Run Night 2025",
+  "data": {
+    "$date": "2025-07-12T00:00:00.000Z"
+  },
+  "cidade": "São Paulo",
+  "folder": "localhost/27017",
+  "atletasInscritos": []
+}]

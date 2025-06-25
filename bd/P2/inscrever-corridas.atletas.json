@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6856c097b58a3ff0f13001bf"
+  },
+  "email": "re@gmail.com",
+  "nome": "Renata Rodrigues",
+  "datanascimento": {
+    "$date": "1980-10-27T00:00:00.007Z"
+  },
+  "senha": "123456",
+  "corridas": []
+},
+{
+  "_id": {
+    "$oid": "6856c0b9b58a3ff0f13001c0"
+  },
+  "email": "edu@gmail.com",
+  "nome": "Eduardi Ribeiro",
+  "datanascimento": {
+    "$date": "1985-09-12T00:00:00.020Z"
+  },
+  "senha": "123456",
+  "corridas": []
+},
+{
+  "_id": {
+    "$oid": "6856c0dab58a3ff0f13001c1"
+  },
+  "email": "guina@gmail.com",
+  "nome": "Agnaldo Bispo",
+  "datanascimento": {
+    "$date": "1975-06-12T00:00:00.011Z"
+  },
+  "senha": "123456",
+  "corridas": []
+},
+{
+  "_id": {
+    "$oid": "6856c0f6b58a3ff0f13001c2"
+  },
+  "email": "va@gmail.com",
+  "nome": "Valeria Souza",
+  "datanascimento": {
+    "$date": "1979-07-13T00:00:00.164Z"
+  },
+  "senha": "123456",
+  "corridas": []
+},
+{
+  "_id": {
+    "$oid": "6856c117b58a3ff0f13001c3"
+  },
+  "email": "rafa@gmail.com",
+  "nome": "Rafaela Honorato",
+  "datanascimento": {
+    "$date": "1984-10-28T00:00:00.007Z"
+  },
+  "senha": "123456",
+  "corridas": []
+},
+{
+  "_id": {
+    "$oid": "6856c19bb58a3ff0f13001c4"
+  },
+  "email": "fu@gmail.com",
+  "nome": "Carlos Furlan",
+  "datanascimento": {
+    "$date": {
+      "$numberLong": "-144547199891"
+    }
+  },
+  "senha": "123456",
+  "corridas": []
+}]
